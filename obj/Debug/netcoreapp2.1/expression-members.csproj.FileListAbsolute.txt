@@ -1,0 +1,11 @@
+C:\Users\johnw\workspace\csharp\exercises\expression-members\obj\Debug\netcoreapp2.1\expression-members.csprojAssemblyReference.cache
+C:\Users\johnw\workspace\csharp\exercises\expression-members\obj\Debug\netcoreapp2.1\expression-members.csproj.CoreCompileInputs.cache
+C:\Users\johnw\workspace\csharp\exercises\expression-members\obj\Debug\netcoreapp2.1\expression-members.AssemblyInfoInputs.cache
+C:\Users\johnw\workspace\csharp\exercises\expression-members\obj\Debug\netcoreapp2.1\expression-members.AssemblyInfo.cs
+C:\Users\johnw\workspace\csharp\exercises\expression-members\bin\Debug\netcoreapp2.1\expression-members.deps.json
+C:\Users\johnw\workspace\csharp\exercises\expression-members\bin\Debug\netcoreapp2.1\expression-members.runtimeconfig.json
+C:\Users\johnw\workspace\csharp\exercises\expression-members\bin\Debug\netcoreapp2.1\expression-members.runtimeconfig.dev.json
+C:\Users\johnw\workspace\csharp\exercises\expression-members\bin\Debug\netcoreapp2.1\expression-members.dll
+C:\Users\johnw\workspace\csharp\exercises\expression-members\bin\Debug\netcoreapp2.1\expression-members.pdb
+C:\Users\johnw\workspace\csharp\exercises\expression-members\obj\Debug\netcoreapp2.1\expression-members.dll
+C:\Users\johnw\workspace\csharp\exercises\expression-members\obj\Debug\netcoreapp2.1\expression-members.pdb
