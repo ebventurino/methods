@@ -10,12 +10,12 @@ namespace expression_members
         // creating a public bug class
         public class Bug
         {
-            // prepping for code below?? setting strings
+            // prepping for code below. setting blank strings and blank lists to later put things inside
             public string Name { get; } = ""; public string Species { get; } = "";
             public ICollection<string> Predators { get; } = new List<string>();
             public ICollection<string> Prey { get; } = new List<string>();
 
-            // Convert this property to an expression member
+            // Convert this property to an expression 
             public string FormalName => $"{this.Name} the {this.Species}";
 
             // Class constructor
