@@ -4,16 +4,18 @@ using System.Collections.Generic;
 
 namespace expression_members
 {
+    // naming the class
     class Program
     {
+        // creating a public bug class
         public class Bug
         {
-
+            // prepping for code below?? setting strings
             public string Name { get; } = ""; public string Species { get; } = "";
             public ICollection<string> Predators { get; } = new List<string>();
             public ICollection<string> Prey { get; } = new List<string>();
 
-            // Convert this readonly property to an expression member
+            // Convert this property to an expression member
             public string FormalName => $"{this.Name} the {this.Species}";
 
             // Class constructor
